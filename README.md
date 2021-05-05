@@ -6,26 +6,28 @@ I'm a Web Developer based in London, and I'm currently studying software develop
 
 ### Tech Stack 🖥️
 
-
+<img>https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white</img>
 
 ---
 
-### Interests
+###  🚀 Interests
 
-:tennis: Tennis
+⋅⋅* :tennis: Tennis
 
-:soccer: Football
+⋅⋅* :soccer: Football
 
-⛷️ 🏂 🏔️ Skiing and Snowboarding
+⋅⋅* ⛷️ 🏂 🏔️ Skiing and Snowboarding
 
-:skateboard: Skateboarding
+⋅⋅* :skateboard: Skateboarding
 
-🎮 Gaming
+⋅⋅* 🎮 Gaming
 
-and of course, 🧑‍💻 Coding
+and of course:
+
+⋅⋅* 🧑‍💻 Coding
 ---
 
-### Contact
+### 📫 Get in touch! 
 
 <!--
 **EHughes190/EHughes190** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
