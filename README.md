@@ -1,8 +1,20 @@
 ### Hi there, I'm Ed 👋
 
+I'm a Web Developer based in London, and I'm currently studying software development at _nology. 
+
 ---
 
-I'm a Web Developer based in London and currently studying software development at _nology 
+### Tech Stack
+
+---
+
+### Interests
+
+:tennis: Tennis
+
+---
+
+### Contact
 
 <!--
 **EHughes190/EHughes190** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
