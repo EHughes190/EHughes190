@@ -33,7 +33,7 @@ and of course:
 
 ### 📫 Get in touch! 
 
-<a href="www.linkedin.com/in/edward-hughes-3b79b3108" alt="LinkedIn Profile"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a> 
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" <a href="www.linkedin.com/in/edward-hughes-3b79b3108" alt="LinkedIn Profile"></a>/>
 
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 
