@@ -1,6 +1,7 @@
 # Hi there, I'm Ed 👋
 
-I'm a Web Developer based in London, and I'm currently studying software development at _nology. 
+I'm a Web Developer based in London. 
+Currently studying software development at _nology. 
 
 ---
 
@@ -31,7 +32,10 @@ and of course:
 
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"><a href="www.linkedin.com/in/edward-hughes-3b79b3108"></a></img>
+<a href="www.linkedin.com/in/edward-hughes-3b79b3108"></a></img>
+
+<a href="www.linkedin.com/in/edward-hughes-3b79b3108" rel ="nofollow"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+
 
 
 
