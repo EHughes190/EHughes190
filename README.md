@@ -32,8 +32,6 @@ and of course:
 
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 
-<a href="www.linkedin.com/in/edward-hughes-3b79b3108"></a></img>
-
 <a href="https//www.linkedin.com/in/edward-hughes-3b79b3108" rel ="nofollow"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 
 
