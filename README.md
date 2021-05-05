@@ -1,5 +1,9 @@
 ### Hi there, I'm Ed 👋
 
+---
+
+I'm a Web Developer based in London and currently studying software development at _nology 
+
 <!--
 **EHughes190/EHughes190** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
