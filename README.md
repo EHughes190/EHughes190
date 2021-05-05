@@ -13,9 +13,13 @@ I'm a Web Developer based in London, and I'm currently studying software develop
 ### Interests
 
 :tennis: Tennis
+
 :soccer: Football
+
 ⛷️ 🏂 🏔️ Skiing and Snowboarding
+
 :skateboard: Skateboarding
+
 🎮 Gaming
 
 and of course, 🧑‍💻 Coding
