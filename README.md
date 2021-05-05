@@ -1,17 +1,24 @@
-### Hi there, I'm Ed 👋
+# Hi there, I'm Ed 👋
 
 I'm a Web Developer based in London, and I'm currently studying software development at _nology. 
 
 ---
 
-### Tech Stack
+### Tech Stack 🖥️
+
+
 
 ---
 
 ### Interests
 
 :tennis: Tennis
+:soccer: Football
+⛷️ 🏂 🏔️ Skiing and Snowboarding
+:skateboard: Skateboarding
+🎮 Gaming
 
+and of course, 🧑‍💻 Coding
 ---
 
 ### Contact
