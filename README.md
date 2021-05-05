@@ -16,19 +16,19 @@ I'm a Web Developer based in London, and I'm currently studying software develop
 
 ###  🚀 Interests
 
-⋅⋅* :tennis: Tennis
+* :tennis: Tennis
 
-⋅⋅* :soccer: Football
+* :soccer: Football
 
-⋅⋅* ⛷️ 🏂 🏔️ Skiing and Snowboarding
+* ⛷️ 🏂 🏔️ Skiing and Snowboarding
 
-⋅⋅* :skateboard: Skateboarding
+* :skateboard: Skateboarding
 
-⋅⋅* 🎮 Gaming
+* 🎮 Gaming
 
 and of course:
 
-⋅⋅* 🧑‍💻 Coding
+* 🧑‍💻 Coding
 ---
 
 ### 📫 Get in touch! 
