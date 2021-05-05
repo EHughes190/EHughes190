@@ -6,8 +6,7 @@ I'm a Web Developer based in London, and I'm currently studying software develop
 
 ### Tech Stack 🖥️
 
-<img>https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white</img>
-
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
 ---
 
 ###  🚀 Interests
