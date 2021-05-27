@@ -28,6 +28,15 @@ and of course:
 * 🧑‍💻 Coding
 ---
 
+## &#x1f4c8; GitHub stats
+<a href="https://github.com/EHughes190/EHughes190">
+	<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EHughes190&theme=dark&layout=compact" />
+</a>
+<a href="https://github.com/EHughes190/EHughes190">
+	<img align="center" src="https://github-readme-stats.vercel.app/api?username=EHughes190&show_icons=true&theme=dark" />
+</a>
+
+
 ### 📫 Get in touch! 
 
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
