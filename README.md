@@ -1,7 +1,7 @@
 # Hi there, I'm Ed 👋
 
 I'm a Web Developer based in London. 
-Currently studying software development at _nology. 
+Recent graduate of the software development course at _nology. 
 
 ---
 
