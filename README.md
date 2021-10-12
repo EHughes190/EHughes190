@@ -22,9 +22,6 @@ Recent graduate of the software development course at _nology.
 
 * 🎮 Gaming
 
-and of course:
-
-* 🧑‍💻 Coding
 ---
 
 ## &#x1f4c8; GitHub stats
