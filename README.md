@@ -1,12 +1,9 @@
 # Hi there, I'm Ed 👋
 
-I'm a Software Developer based in London. 
-
----
-
-## Tools I enjoy working with
+I'm a Software Developer based in London.
 
 <div align="center">
+	<h4>Tools I enjoy working with</h4>
 	<div>
 		<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 		<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
@@ -25,8 +22,6 @@ I'm a Software Developer based in London.
 		<img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white" />
 	</div>
 </div>
-
----
 
 ## &#x1f4c8; GitHub Stats
 
