@@ -26,7 +26,7 @@ I'm a Software Developer based in London.
 ## &#x1f4c8; GitHub Stats
 
 <a href="https://github.com/EHughes190/EHughes190">
-	<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EHughes190&theme=gruvbox&layout=compact&hide_progress=true&exclude_repo=Pixel-Platformer&langs_count=10" />
+	<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EHughes190&theme=gruvbox&layout=compact&hide_progress=true&exclude_repo=Pixel-Platformer&langs_count=6&hide=html,scss,css,shell" />
 </a>
 <a href="https://github.com/EHughes190/EHughes190">
 	<img align="right" src="https://github-readme-stats.vercel.app/api?username=EHughes190&show_icons=true&theme=gruvbox" />
@@ -35,7 +35,7 @@ I'm a Software Developer based in London.
 <!--
 If too many requests are made to the above, vercel won't show it. The below uses a dynamic url which we can use instead.
 <a href="https://github.com/EHughes190/EHughes190">
-	<img align="left" src="https://readmestats.999857.xyz/api/top-langs/?username=EHughes190&hide_progress=true&theme=gruvbox&layout=compact&exclude_repo=Pixel-Platformer&langs_count=10" />
+	<img align="left" src="https://readmestats.999857.xyz/api/top-langs/?username=EHughes190&hide_progress=true&theme=gruvbox&layout=compact&exclude_repo=Pixel-Platformer&langs_count=6&hide=html,scss,css,shell" />
 </a>
 <a href="https://github.com/EHughes190/EHughes190">
 	<img align="right" src="https://readmestats.999857.xyz/api?username=EHughes190&show_icons=true&theme=gruvbox" />
