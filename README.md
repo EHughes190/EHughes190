@@ -26,7 +26,7 @@ I'm a Software Developer based in London.
 ## &#x1f4c8; GitHub Stats
 
 <a href="https://github.com/EHughes190/EHughes190">
-	<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EHughes190&theme=gruvbox&layout=compact&hide_progress=true&exclude_repo=Pixel-Platformer&langs_count=6&hide=html,scss,css,shell" />
+	<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EHughes190&theme=gruvbox&layout=compact&langs_count=6&hide=html,scss,css,shell" />
 </a>
 <a href="https://github.com/EHughes190/EHughes190">
 	<img align="right" src="https://github-readme-stats.vercel.app/api?username=EHughes190&show_icons=true&theme=gruvbox" />
