@@ -1,9 +1,4 @@
-# Hi there, I'm Ed 👋
-
-I'm a Software Developer based in London.
-
 <div align="center">
-	<h4>Tools I enjoy working with</h4>
 	<div>
 		<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 		<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
@@ -23,6 +18,7 @@ I'm a Software Developer based in London.
 	</div>
 </div>
 
+<!--
 ## &#x1f4c8; GitHub Stats
 
 <a href="https://github.com/EHughes190/EHughes190">
@@ -32,7 +28,7 @@ I'm a Software Developer based in London.
 	<img align="right" src="https://github-readme-stats.vercel.app/api?username=EHughes190&show_icons=true&theme=gruvbox" />
 </a>
 
-<!--
+
 If too many requests are made to the above, vercel won't show it. The below uses a dynamic url which we can use instead.
 <a href="https://github.com/EHughes190/EHughes190">
 	<img align="left" src="https://readmestats.999857.xyz/api/top-langs/?username=EHughes190&hide_progress=true&theme=gruvbox&layout=compact&exclude_repo=Pixel-Platformer&langs_count=6&hide=html,scss,css,shell" />
